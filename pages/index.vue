@@ -8,7 +8,6 @@
       <h2 class="subtitle">
         My stylish Nuxt.js project
       </h2>
-      <el-button type="primary" @click="click">主要按钮</el-button>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
           Documentation
